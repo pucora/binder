@@ -1,4 +1,4 @@
-module github.com/velonetics/binder
+module github.com/pucora/binder
 
 go 1.18
 
